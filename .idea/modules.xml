@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/rpl3b_udaskincare.iml" filepath="$PROJECT_DIR$/rpl3b_udaskincare.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/rpl3b_udaskincare_android.iml" filepath="$PROJECT_DIR$/android/rpl3b_udaskincare_android.iml" />
     </modules>
   </component>
 </project>
